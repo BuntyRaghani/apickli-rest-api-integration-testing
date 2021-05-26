@@ -1,0 +1,9 @@
+{
+	"name": "restapi-test",
+	"version": "1.0.0",
+	"description": "Integration testing for REST API",
+	"dependencies": {
+		"apickli": "latest",
+		"cucumber": "^7.0.0-rc.0"
+	}
+}
